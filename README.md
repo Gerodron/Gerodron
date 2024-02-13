@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Gerodron's github stats" style="width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="mystreak" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Gerodron's github stats" style="width: 40%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="mystreak" style="width: 40%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerodron&theme=tokyonight&layout=compact" alt="Gerodron's Top Langs" style="width: 100%;">
 </p>
