@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-    ![M]( <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" >)
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" >)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="Estadísticas de racha en GitHub">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerodron&theme=tokyonight&layout=compact" alt="Principales lenguajes de programación utilizados">
 </p>
