@@ -17,7 +17,7 @@
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact" alt="AkuraDiary's Top Langs">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact" alt="AkuraDiary's Top Langs">
 </p>
 
