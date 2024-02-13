@@ -15,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=15" />
   </a>
 </p>
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact" alt="AkuraDiary's Top Langs">
