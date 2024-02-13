@@ -22,7 +22,7 @@
 <!-- Sección de análisis de GitHub -->
 <div id="user-content-toc">
     <ul align="center">
-        <summary><h2 style="display: inline-block">Github Analytics</h2></summary>
+        <summary><h2 style="display: inline-block">🌱GitHub Performance</h2></summary>
     </ul>
 </div>
 <!-- Estadísticas de GitHub -->
