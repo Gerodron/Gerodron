@@ -1,6 +1,6 @@
 <!-- Encabezado -->
- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25">
-<h1 align="center">Hi, I'm Saul Consuegra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ 
+<h1 align="center">Hi, I'm Saul Consuegra<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="35"></h1>
 
 <!-- Imagen de cabecera -->
 <p align="center">
