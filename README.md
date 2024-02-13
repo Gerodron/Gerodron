@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width="100%">
 </p>
-
+#
 <!-- Sección de tecnologías -->
 <div id="user-content-toc">
     <ul align="center">
