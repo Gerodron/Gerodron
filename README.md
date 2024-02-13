@@ -15,6 +15,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=15" />
   </a>
 </p>
+
+ <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Github Analytics</h2></summary>
+  </ul>
+</div>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" >
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="Estadísticas de racha en GitHub">
