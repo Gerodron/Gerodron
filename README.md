@@ -1,28 +1,33 @@
-<h1 align="center">Hi , I'm Saul Consuegra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Encabezado -->
+<h1 align="center">Hi, I'm Saul Consuegra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!-- Imagen de cabecera -->
 <p align="center">
+    <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width="100%">
 </p>
 
- <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width ="100%">
-
- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<!-- Sección de tecnologías -->
+<div id="user-content-toc">
+    <ul align="center">
+        <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    </ul>
 </div>
-<!--tech stack icons-->
+<!-- Iconos de la pila tecnológica -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=15" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=15" />
+    </a>
 </p>
 
- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Github Analytics</h2></summary>
-  </ul>
+<!-- Sección de análisis de GitHub -->
+<div id="user-content-toc">
+    <ul align="center">
+        <summary><h2 style="display: inline-block">Github Analytics</h2></summary>
+    </ul>
 </div>
+<!-- Estadísticas de GitHub -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="Estadísticas de racha en GitHub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerodron&theme=tokyonight&layout=compact" alt="Principales lenguajes de programación utilizados">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="GitHub Stats" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="GitHub Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerodron&theme=tokyonight&layout=compact" alt="Top Programming Languages">
 </p>
