@@ -16,7 +16,7 @@
 <!-- Iconos de la pila tecnológica -->
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=15" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,discord,tailwind&perline=10" />
     </a>
 </p>
 
