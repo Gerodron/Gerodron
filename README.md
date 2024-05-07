@@ -26,8 +26,14 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerodron&show_icons=true&locale=en" alt="gerodron" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerodron&" alt="gerodron" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerodron&show_icons=true&locale=en&layout=compact" alt="gerodron" /></p>
+<div style="display: flex; justify-content: center;">
+    <div style="flex: 1; margin-right: 5px; max-width: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=gerodron&show_icons=true&locale=en" alt="gerodron" style="width: 100%; height: 100%;" />
+    </div>
+    <div style="flex: 1; margin-left: 5px; margin-right: 5px; max-width: 300px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerodron" alt="gerodron" style="width: 100%; height: 100%;" />
+    </div>
+    <div style="flex: 1; margin-left: 5px; max-width: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerodron&show_icons=true&locale=en&layout=compact" alt="gerodron" style="width: 100%; height: 100%;" />
+    </div>
+</div>
