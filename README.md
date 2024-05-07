@@ -1,29 +1,33 @@
-<!-- Encabezado -->
- 
- <h1 align="center">Hi, I'm Saul Consuegra  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> </h1>
 
-<!-- Sección de tecnologías -->
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-    </ul>
-</div>
-<!-- Iconos de la pila tecnológica -->
-<p align="center">
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]()
+<h1 align="center">Hi 👋, I'm Saul Consuegra</h1>
+<h3 align="center">A passionate frontend developer from Ecuador</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerodron" alt="gerodron" /></a> </p>
+
+- 🔭 I’m currently working on **Viamatica**
+
+- 🌱 I’m currently learning **Microservices and monitoring with .NET**
+
+- 📫 How to reach me **saul.consuegra.moran.26@gmail.com**
+
+- ⚡ Fun fact **I'm frendly**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saul-consuegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saul-consuegra" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,docker,dotnet,postman,vscode,visualstudio,tailwind&perline=10" />
     </a>
 </p>
 
-<!-- Sección de análisis de GitHub -->
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h2 style="display: inline-block">GitHub Analytics</h2></summary>
-    </ul>
-</div>
-<!-- Estadísticas de GitHub -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gerodron&show_icons=true&theme=tokyonight" alt="GitHub Stats" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerodron&theme=tokyonight" alt="GitHub Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerodron&theme=tokyonight&layout=compact" alt="Top Programming Languages">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerodron&show_icons=true&locale=en&layout=compact" alt="gerodron" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerodron&show_icons=true&locale=en" alt="gerodron" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerodron&" alt="gerodron" /></p>
+
