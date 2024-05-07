@@ -1,7 +1,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]()
 <h1 align="center">Hi 👋, I'm Saul Consuegra</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate developer from Ecuador</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerodron" alt="gerodron" /></a> </p>
 
