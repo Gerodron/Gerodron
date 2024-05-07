@@ -25,9 +25,9 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerodron&show_icons=true&locale=en&layout=compact" alt="gerodron" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerodron&show_icons=true&locale=en" alt="gerodron" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerodron&" alt="gerodron" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerodron&show_icons=true&locale=en&layout=compact" alt="gerodron" /></p>
